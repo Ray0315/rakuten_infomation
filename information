@@ -1,0 +1,17 @@
+{
+    "status": 0,
+    "message": "Success",
+    "data": {
+        "start_at": "2020/07/28 12:00",
+        "end_at": "2020/08/28 23:59",
+        "monitor_rate": 0.0664,
+        "ratio": {
+            "rock_ratio": 300,
+            "flame_ratio": 100
+        },
+        "aum":{
+            "rock_unit": 97,
+            "flame_unit": 880
+        }
+    }
+}
