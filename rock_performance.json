@@ -1,0 +1,11 @@
+{
+  "status": "0",
+  "message": "Success",
+  "data": {
+      "totalAccountAmount": 
+      {
+          "usdtBasedAmount": "0",
+          "usdtBasedPerformancePercent": "0"
+      }
+  }
+}
